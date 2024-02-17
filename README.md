@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @arvincatalbas
+- 🎓 Studied Bachelor of Science in Information Technology at Sorsogon State University-Bulan Campus
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning in HTML, Java, Python and C++
 - 💞️ I’m looking to collaborate with you😄
