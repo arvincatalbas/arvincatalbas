@@ -3,11 +3,11 @@
 
 <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&vCenter=true&width=435&lines=Hello+Everyone%F0%9F%91%8B;I'm+Arvin+F.+Catalbas" alt="Typing SVG" /></a></p>
 
-🎓 Studies **Bachelor of Science in Information Technology** at [Sorsogon State University - Bulan Campus](https://bulan.sorsu.edu.ph/)
+- 🎓 Studies **Bachelor of Science in Information Technology** at [Sorsogon State University - Bulan Campus](https://bulan.sorsu.edu.ph/)
 
-👀 I’m interested in coding
+- 👀 I’m interested in coding
 
--🆎 Understand **English** and **Filipino**
+- 🆎 Understand **English** and **Filipino**
 ***
 <h3> 🧰 Languages and Tools</h3>
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
