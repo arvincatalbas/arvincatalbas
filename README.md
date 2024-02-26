@@ -1,4 +1,4 @@
 <!DOCTYPE HTML>
 <html>
-  <h6>HI!, I am Arvin</h6>
+  <h1>HI!, I am Arvin</h1>
 </html>
