@@ -1,5 +1,5 @@
 
-![Static Badge](https://img.shields.io/badge/Arvin-Catalbas)
+![Static Badge](https://img.shields.io/badge/Arvin-Catalbas-Blue?)
 
 <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&vCenter=true&width=435&lines=Hello+Everyone!!!%F0%9F%91%8B;I'm+Arvin+F.+Catalbas;Aspiring+Future+Software+Engineer" alt="Typing SVG" /></a></p>
 
