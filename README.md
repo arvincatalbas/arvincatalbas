@@ -1,7 +1,7 @@
 
 ![VIN](https://img.shields.io/badge/Arvin-Catalbas-Blue?labelColor=whiteblue&style=for-the-badge&logo=00a98F&logoColor=A9225C)
 
-<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&vCenter=true&width=435&lines=Hello+Everyone!!!%F0%9F%91%8B;I'm+Arvin+F.+Catalbas;Aspiring+Future+Software+Engineer" alt="Typing SVG" /></a></p>
+<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&vCenter=true&width=435&lines=Hello+Everyone!!!%F0%9F%91%8B;I'm+Arvin+F.+Catalbas;Aspiring+Future+Web+Developer" alt="Typing SVG" /></a></p>
 
 - 🎓 Studies **Bachelor of Science in Information Technology** at [Sorsogon State University - Bulan Campus](https://bulan.sorsu.edu.ph/)
 
