@@ -7,7 +7,7 @@
 </p>
 
 - 🎓 Studies **Bachelor of Science in Information Technology** at [Sorsogon State University - Bulan Campus](https://bulan.sorsu.edu.ph/)
-- 👀 I’m interested in **Programming**
+- 👀 I'm interested in **Programming**
 - 🆎 Understand **English** and **Filipino**
 - 📍 Based in **Barcelona, Sorsogon**
 
@@ -34,6 +34,6 @@
 ### 📊 GitHub Statistics & Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arvincatalbas&layout=compact&theme=dark&hide_border=true" alt="Most Used Languages" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api?username=arvincatalbas&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-stats-pi-two.vercel.app/api/top-langs/?username=arvincatalbas&layout=compact&theme=dark&hide_border=true" alt="Most Used Languages" height="165" />
+  <img src="https://github-readme-stats-pi-two.vercel.app/api?username=arvincatalbas&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" height="165" />
 </p>
