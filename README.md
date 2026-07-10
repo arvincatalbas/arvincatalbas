@@ -23,10 +23,9 @@
 
 ### ✏️ Currently Learning
 
-<p align="left">
-  <img alt="Figma" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-  <img alt="Javascript" width="40px" style="padding-right:20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-  <img alt="React" width="40px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />
+<p align="center">
+  <img alt="Most Used Languages" height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arvincatalbas&layout=compact&theme=dark&hide_border=true" />
+  <img alt="GitHub Stats" height="165" src="https://github-readme-stats.vercel.app/api?username=arvincatalbas&show_icons=true&theme=dark&hide_border=true" />
 </p>
 
 ---
