@@ -1,6 +1,6 @@
 - 👋 Hi There!!! I'm Arvin F. Catalbas
 
-- 🎓 Studies **Bachelor of Science in Information Technology** at [Sorsogon State University - Bulan Campus](https://bulan.sorsu.edu.ph/)
+- 🎓 Fresh Graduate **Bachelor of Science in Information Technology** at [Sorsogon State University - Bulan Campus](https://bulan.sorsu.edu.ph/)
 
 - 👀 I’m interested in **Programming**, **Web Development**, and **Networking**
 
