@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi There!!! I'm Arvin F. Catalbas</h1>
-<h3 align="center">IT Fresh Graduate & Aspiring Web Developer</h3>
+<h3 align="center">Currently learning in Web Development</h3>
 
 - 🎓 Fresh Graduate **Bachelor of Science in Information Technology** at [Sorsogon State University - Bulan Campus](https://bulan.sorsu.edu.ph/)
 
