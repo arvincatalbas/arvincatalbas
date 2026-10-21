@@ -1,4 +1,4 @@
-<h3 class="align-center">👋 Hi There!!! I'm Arvin F. Catalbas</h3>
+<h1 align="center">👋 Hi There!!! I'm Arvin F. Catalbas</h1>
 
 - 🎓 Fresh Graduate **Bachelor of Science in Information Technology** at [Sorsogon State University - Bulan Campus](https://bulan.sorsu.edu.ph/)
 
