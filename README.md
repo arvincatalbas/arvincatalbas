@@ -27,10 +27,8 @@
 <img align="left" alt="Javascript" width="40px" style="padding-right:20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 <img align="left" alt="Vue" width="40px" style="padding-right:20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original-wordmark.svg" />
 <img align="left" alt="React" width="40px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" /><br><br><br><br>
-
+***
 <h3>📫 Contact </h3>
 - 📧 Email: arvincatalbas517@gmail.com
 - 📞 Phone: 09773195952
 - 📱 Facebook: https://facebook.com/senemorph
-***
-
