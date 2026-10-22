@@ -1,7 +1,8 @@
 <h1 align="center">👋 Hi There!!! I'm Arvin F. Catalbas</h1>
 <h3 align="center">Aspiring Web Developer</h3>
 
-![Static Badge](https://img.shields.io/badge/Arvin-Catalbas-bluesky)
+![orangemask](https://img.shields.io/badge/Arvin-Catalbas-yellow)
+
 
 
 - 🎓 Fresh Graduate **Bachelor of Science in Information Technology** at [Sorsogon State University - Bulan Campus](https://bulan.sorsu.edu.ph/)
