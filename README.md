@@ -38,5 +38,3 @@
 - 📞 [Phone](09773195952)
   
 - 📱 [Facebook](https://facebook.com/senemorph)
-
-- 🌐 https://my-portfolio-seven-phi-26.vercel.app/
