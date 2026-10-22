@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi There!!! I'm Arvin F. Catalbas</h1>
 <h3 align="center">Aspiring Web Developer</h3>
 
-![orangemask](https://img.shields.io/badge/Arvin-Catalbas-yellow)
+![orangemask](https://img.shields.io/badge/Arvin-Catalbas-indigo)
 
 
 
