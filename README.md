@@ -14,6 +14,7 @@
   <img align="center" alt="React" width="40px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" /><br><br><br><br>
 </h3>
 
+***
 - 🎓 Fresh Graduate **Bachelor of Science in Information Technology** at [Sorsogon State University - Bulan Campus](https://bulan.sorsu.edu.ph/)
 
 - 👀 I’m interested in **Programming**, **Web Development**, and **Networking**
