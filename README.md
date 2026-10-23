@@ -1,3 +1,5 @@
+![Arvin](https://img.shields.io/badge/Arvin-Catalbas-indigo?labelColor=grey&style=for-the-badge)
+
 <h1 align="center">👋 Hi There!!! I'm Arvin F. Catalbas</h1>
 <h3 align="center">Aspiring Web Developer</h3>
 <h3 align="center">
@@ -11,8 +13,6 @@
   <img align="center" alt="Vue" width="40px" style="padding-right:20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original-wordmark.svg" />
   <img align="center" alt="React" width="40px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" /><br><br><br><br>
 </h3>
-
-![Arvin](https://img.shields.io/badge/Arvin-Catalbas-indigo?labelColor=grey&style=for-the-badge)
 
 - 🎓 Fresh Graduate **Bachelor of Science in Information Technology** at [Sorsogon State University - Bulan Campus](https://bulan.sorsu.edu.ph/)
 
