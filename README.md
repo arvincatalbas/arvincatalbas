@@ -1,6 +1,6 @@
 ![Arvin](https://img.shields.io/badge/Arvin-Catalbas-indigo?labelColor=grey&style=for-the-badge)
 
-<h1 align="center">Arvin F. Catalbas</h1>
+<h1 align="center"> [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Arvin+F.+Catalbas)](https://git.io/typing-svg) </h1>
 <h3 align="center">Aspiring Web Developer</h3>
 <h3 align="center">
   <img align="center" alt="Figma" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
