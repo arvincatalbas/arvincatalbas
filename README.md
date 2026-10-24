@@ -1,7 +1,7 @@
 ![Arvin](https://img.shields.io/badge/Arvin-Catalbas-indigo?labelColor=grey&style=for-the-badge)
 
 <h1 align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Arvin+F.+Catalbas" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&width=435&lines=Arvin+F.+Catalbas" alt="Typing SVG" /></a>
 </h1>
 <h3 align="center">Aspiring Web Developer</h3>
 <h3 align="center">
