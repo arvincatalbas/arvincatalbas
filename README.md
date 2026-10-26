@@ -1,4 +1,4 @@
-![Arvin](https://img.shields.io/badge/Arvin-Catalbas-indigo?labelColor=grey&style=for-the-badge)
+![Arvin](https://img.shields.io/badge/Arvin-Catalbas-skyblue?labelColor=grey&style=for-the-badge)
 
 <h1 align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=86F7F3&width=435&lines=Arvin+Fortades+Catalbas." alt="Typing SVG" /></a>
