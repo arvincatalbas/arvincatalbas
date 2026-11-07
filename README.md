@@ -18,7 +18,7 @@
 </h3>
 
 ***
-- 🎓 Fresh Graduate **Bachelor of Science in Information Technology** at [Sorsogon State University - Bulan Campus](https://bulan.sorsu.edu.ph/)
+- 🎓 Student **Bachelor of Science in Information Technology** at [Sorsogon State University - Bulan Campus](https://bulan.sorsu.edu.ph/)
 
 - 👀 I’m interested in **Programming**, **Web Development**, and **Networking**
 
