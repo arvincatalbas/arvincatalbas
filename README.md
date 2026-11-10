@@ -3,7 +3,7 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=86F7F3&width=435&lines=Arvin+Fortades+Catalbas." alt="Typing SVG" /></a>
 </h1>
-<h3 align="center">Aspiring Web Developer</h3>
+<h3 align="center">Aspiring Full Stack Developer</h3>
 <h3 align="center">
   <img align="center" alt="VS Code" width="40px" style="padding-right:20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
   <img align="center" alt="Figma" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
