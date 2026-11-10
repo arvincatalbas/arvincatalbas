@@ -1,4 +1,3 @@
-![Arvin](https://img.shields.io/badge/Arvin-Catalbas-skyblue?labelColor=grey&style=for-the-badge)
 <img alt="Static Badge" src="https://img.shields.io/badge/Arvin-Catalbas-skyblue?labelColor=yellow&style=for-the-badge">
 
 <h1 align="center">
