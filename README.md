@@ -33,5 +33,3 @@
 - 📞 [Phone](09773195952)
   
 - 📱 [Facebook](https://facebook.com/senemorph)
-
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=https%3A%2F%2Fgithub.com%2Farvincatalbas" alt="GitHub Streak" /></a>
