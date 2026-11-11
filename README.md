@@ -35,3 +35,8 @@
 - 📱 [Facebook](https://facebook.com/senemorph)
 
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=arvincatalbas" alt="GitHub Streak" /></a>
+
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?arvincatalbas=arvincatalbas&show_icons=true&theme=dark" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?arvincatalbas=arvincatalbas&layout=compact&theme=dark" />
+</p>
