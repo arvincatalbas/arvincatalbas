@@ -1,13 +1,5 @@
 <img alt="Static Badge" src="https://img.shields.io/badge/Arvin-Catalbas-skyblue?labelColor=darkblue&style=for-the-badge">
 
-<p align="center">
-  <img
-    src="./assets/your_cool_intro.gif"
-    alt="Arvin's Animated Introduction"
-    width="800"
-  />
-</p>
-
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img
