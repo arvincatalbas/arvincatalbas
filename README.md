@@ -1,8 +1,13 @@
 <img alt="Static Badge" src="https://img.shields.io/badge/Arvin-Catalbas-skyblue?labelColor=darkblue&style=for-the-badge">
 
-<h1 align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=86F7F3&width=435&lines=Arvin+Fortades+Catalbas." alt="Typing SVG" /></a>
-</h1>
+<div align="center">
+  <img
+    src="./assets/your_cool_intro.gif"
+    width="100%"
+    alt="Animated Developer Introduction"
+  />
+</div>
+
 <h3 align="center">Aspiring Full Stack Developer</h3>
 <h3 align="center">
   <img align="center" alt="VS Code" width="40px" style="padding-right:20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
