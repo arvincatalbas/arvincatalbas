@@ -8,7 +8,7 @@
   />
 </p>
 
-<a href="https://profilyze.vercel.app/?u=2hjaito&c=rZHNbsIwEIRfpRquqyohUMq-StXD4jhkwcSp7aZEiHevnJafCzd8WXl3PPNpfcIALgnf0QYw5u1ONHkQNlvwCXvtajD6YKNNIHRysGBoEtNqCUJzBC8LQjPmeia04Hlu1HoAF4QALucE6yL44wTNdnGvzkUQ0thPdsZ3-fpX-QNOggzWgdC3PQg7GSSaoH36f3S9BCsm1-Hb7rLFEI2vLQhbze3DGL-yTZsObgmCibHCJ-EILlfFa0UYweuSEMHVgrCVHlwWZ7qQpmBlfyONSbLtVO6mGRwM4UZDDneysQ6MWsaXqyhnvi2mxKqYEud5cb7LVtolG0D4Aa-KgmC88_lDZs10QBBj7CSdNc36bVHgCjmo_YmPGC_DK2JsJWi3le6O8yI65i08A_G9spumvCEa36Wgm4eUwfb-ntIkHTSNd4iTQpMPav9JF6vyCaTVuq6WFc6f518"><img src="https://profilyze.vercel.app/api/banner?u=2hjaito&c=rZHNbsIwEIRfpRquqyohUMq-StXD4jhkwcSp7aZEiHevnJafCzd8WXl3PPNpfcIALgnf0QYw5u1ONHkQNlvwCXvtajD6YKNNIHRysGBoEtNqCUJzBC8LQjPmeia04Hlu1HoAF4QALucE6yL44wTNdnGvzkUQ0thPdsZ3-fpX-QNOggzWgdC3PQg7GSSaoH36f3S9BCsm1-Hb7rLFEI2vLQhbze3DGL-yTZsObgmCibHCJ-EILlfFa0UYweuSEMHVgrCVHlwWZ7qQpmBlfyONSbLtVO6mGRwM4UZDDneysQ6MWsaXqyhnvi2mxKqYEud5cb7LVtolG0D4Aa-KgmC88_lDZs10QBBj7CSdNc36bVHgCjmo_YmPGC_DK2JsJWi3le6O8yI65i08A_G9spumvCEa36Wgm4eUwfb-ntIkHTSNd4iTQpMPav9JF6vyCaTVuq6WFc6f518" alt="Profile banner" width="100%" /></a>
+<h3 align="center">Aspiring Full Stack Developer</h3>
 <h3 align="center">
   <img align="center" alt="VS Code" width="40px" style="padding-right:20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
   <img align="center" alt="Figma" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
