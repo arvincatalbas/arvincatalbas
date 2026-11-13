@@ -41,4 +41,4 @@
 
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=arvincatalbas&theme=react&hide_border=true" alt="GitHub Streak" /></a>
 
-![Top languages](https://profilyze.vercel.app/api/github/languages?user=2hjaito&theme=github-dark)
+![Top languages](https://profilyze.vercel.app/api/github/languages?user=arvincatalbas&theme=github-dark)
