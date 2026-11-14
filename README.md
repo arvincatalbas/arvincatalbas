@@ -18,6 +18,10 @@
 - 🆎 Understand **English** and **Filipino**
 
 ***
+<h3>🧰 Tools </h3>
+**Frontend**
+
+***
 <h3>📫 Contact </h3>
 
 - 📧 [Email](arvincatalbas517@gmail.com)
