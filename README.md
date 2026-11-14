@@ -46,6 +46,13 @@
     <img src="https://profilyze.vercel.app/assets/devicon/supabase.svg" alt="Supabase" title="Supabase" width="40" height="40" />
   </p>
 
+- **System Tools**
+  <p align="left">
+    <img src="https://profilyze.vercel.app/assets/devicon/git.svg" alt="Git" title="Git" width="40" height="40" />
+    <img src="https://profilyze.vercel.app/assets/devicon/figma.svg" alt="Figma" title="Figma" width="40" height="40" />
+    <img src="https://profilyze.vercel.app/assets/devicon/vscode.svg" alt="VS Code" title="VS Code" width="40" height="40" />
+  </p>
+
 ***
 <h3>📫 Contact </h3>
 
