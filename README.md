@@ -19,7 +19,7 @@
 
 ***
 <h3>🧰 Tools </h3>
-- 🌐 **Frontend**
+- 🌐 **English**
 
 ***
 <h3>📫 Contact </h3>
