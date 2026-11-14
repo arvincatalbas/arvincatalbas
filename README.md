@@ -23,7 +23,11 @@
 - 🌐 **Frontend**
   <p align="left">
     <img src="https://profilyze.vercel.app/assets/devicon/html5.svg" alt="HTML" title="HTML" width="40" height="40" />
+    <img src="https://profilyze.vercel.app/assets/devicon/css3.svg" alt="CSS" title="CSS" width="40" height="40" />
+    <img src="https://profilyze.vercel.app/assets/devicon/javascript.svg" alt="JavaScript" title="JavaScript" width="40" height="40" />
   </p>
+
+- 🗄️ **Backend**
 
 ***
 <h3>📫 Contact </h3>
