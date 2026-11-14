@@ -2,7 +2,7 @@
 
 <p align="center">
   <img
-    src="./your_cool_intro.gif"
+    src="./your_cool_intro (1).gif"
     alt="Arvin's Animated Introduction"
     width="800"
   />
