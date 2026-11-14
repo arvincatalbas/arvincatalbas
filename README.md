@@ -41,6 +41,10 @@
   </p>
 
 -  **Database**
+  <p align="left">
+    <img src="https://profilyze.vercel.app/assets/devicon/mysql.svg" alt="MySQL" title="MySQL" width="40" height="40" />
+    <img src="https://profilyze.vercel.app/assets/devicon/supabase.svg" alt="Supabase" title="Supabase" width="40" height="40" />
+  </p>
 
 ***
 <h3>📫 Contact </h3>
