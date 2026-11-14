@@ -35,6 +35,9 @@
 - 🗄️ **Backend**
   <p align="left">
     <img src="https://profilyze.vercel.app/assets/devicon/php.svg" alt="PHP" width="40" heignt="40" />
+    <img src="https://profilyze.vercel.app/assets/devicon/nodejs.svg" alt="Node.js" title="Node.js" width="40" height="40" />
+    <img src="https://profilyze.vercel.app/assets/devicon/laravel.svg" alt="Laravel" title="Laravel" width="40" height="40" />
+    <img src="https://profilyze.vercel.app/assets/devicon/codeigniter-plain.svg" alt="CodeIgniter" title="CodeIgniter" width="40" height="40" />
   </p>
 
 ***
