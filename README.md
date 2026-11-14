@@ -37,6 +37,8 @@
     <img src="https://profilyze.vercel.app/assets/devicon/php.svg" alt="PHP" width="40" heignt="40" />
     <img src="https://profilyze.vercel.app/assets/devicon/nodejs.svg" alt="Node.js" title="Node.js" width="40" height="40" />
     <img src="https://profilyze.vercel.app/assets/devicon/laravel.svg" alt="Laravel" title="Laravel" width="40" height="40" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/codeigniter/codeigniter-plain.svg"alt="CodeIgniter" width="40px" height="40" />
+
   </p>
 
 ***
