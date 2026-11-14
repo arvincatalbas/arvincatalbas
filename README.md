@@ -28,6 +28,8 @@
     <img src="https://profilyze.vercel.app/assets/devicon/typescript.svg" alt="TypeScript" title="TypeScript" width="40" height="40" />
     <img src="https://profilyze.vercel.app/assets/devicon/react.svg" alt="React" title="React" width="40" height="40" />
     <img src="https://profilyze.vercel.app/assets/devicon/vuejs.svg" alt="Vue" title="Vue" width="40" height="40" />
+    <img src="https://profilyze.vercel.app/assets/devicon/tailwindcss.svg" alt="Tailwind" title="Tailwind" width="40" height="40" />
+    <img src="https://profilyze.vercel.app/assets/devicon/bootstrap.svg" alt="Bootstrap" title="Bootstrap" width="40" height="40" />
   </p>
 
 - 🗄️ **Backend**
