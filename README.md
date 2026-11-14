@@ -20,7 +20,7 @@
 ***
 <h3>🧰 Tools </h3>
 
-- 🌐 Frontend
+- 🌐 **Frontend**
 
 ***
 <h3>📫 Contact </h3>
