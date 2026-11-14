@@ -21,6 +21,9 @@
 <h3>🧰 Tools </h3>
 
 - 🌐 **Frontend**
+  <p align="left">
+    <img src="https://profilyze.vercel.app/assets/devicon/html5.svg" alt="HTML" title="HTML" width="40" height="40" />
+  </p>
 
 ***
 <h3>📫 Contact </h3>
