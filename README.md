@@ -34,7 +34,7 @@
 
 - 🗄️ **Backend**
   <p align="left">
-    <img src="https:/profilyze.vercel.app/assets/devicon/php.svg" alt="PHP" width="40" heignt="40" />
+    <img src="https://profilyze.vercel.app/assets/devicon/php.svg" alt="PHP" width="40" heignt="40" />
   </p>
 
 ***
