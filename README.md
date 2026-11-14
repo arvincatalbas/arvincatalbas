@@ -33,6 +33,9 @@
   </p>
 
 - 🗄️ **Backend**
+  <p align="left">
+    <img src="https:/profilize.vercel.app/assets/devicon/php.svg" alt="PHP" width="40" heignt="40" />
+  </p>
 
 ***
 <h3>📫 Contact </h3>
