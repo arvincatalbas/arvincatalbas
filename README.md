@@ -25,6 +25,9 @@
     <img src="https://profilyze.vercel.app/assets/devicon/html5.svg" alt="HTML" title="HTML" width="40" height="40" />
     <img src="https://profilyze.vercel.app/assets/devicon/css3.svg" alt="CSS" title="CSS" width="40" height="40" />
     <img src="https://profilyze.vercel.app/assets/devicon/javascript.svg" alt="JavaScript" title="JavaScript" width="40" height="40" />
+    <img src="https://profilyze.vercel.app/assets/devicon/typescript.svg" alt="TypeScript" title="TypeScript" width="40" height="40" />
+    <img src="https://profilyze.vercel.app/assets/devicon/react.svg" alt="React" title="React" width="40" height="40" />
+    <img src="https://profilyze.vercel.app/assets/devicon/vuejs.svg" alt="Vue" title="Vue" width="40" height="40" />
   </p>
 
 - 🗄️ **Backend**
