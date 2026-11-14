@@ -1,4 +1,4 @@
-<img alt="Static Badge" src="https://img.shields.io/badge/Arvin-Catalbas-skyblue?labelColor=darkblue&style=for-the-badge">
+<img alt="Static Badge" src="https://img.shields.io/badge/404-Orangemask-skyblue?labelColor=darkblue&style=for-the-badge">
 
 <p align="center">
   <img
