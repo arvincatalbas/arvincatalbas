@@ -51,6 +51,7 @@
     <img src="https://profilyze.vercel.app/assets/devicon/git.svg" alt="Git" title="Git" width="40" height="40" />
     <img src="https://profilyze.vercel.app/assets/devicon/figma.svg" alt="Figma" title="Figma" width="40" height="40" />
     <img src="https://profilyze.vercel.app/assets/devicon/vscode.svg" alt="VS Code" title="VS Code" width="40" height="40" />
+    <img src="https://profilyze.vercel.app/assets/devicon/postman.svg" alt="Postman" title="Postman" width="40" height="40" />
   </p>
 
 ***
