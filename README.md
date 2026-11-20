@@ -70,5 +70,5 @@
 
 <p>
   <img src="https://profilyze.vercel.app/api/github/stats?user=arvincatalbas&theme=github-dark" alt="GitHub stats" height="180" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arvincatalbas&" alt="arvincatalbas" height="180" />
+  <img src="https://profilyze.vercel.app/api/github/languages?user=arvincatalbas&theme=github-dark" alt="Top languages" height="180" />
 </p>
