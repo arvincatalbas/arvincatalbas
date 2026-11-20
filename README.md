@@ -66,9 +66,9 @@
 ***
 <h3>📑 Stats</h3>
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=arvincatalbas&theme=react&hide_border=true" alt="GitHub Streak" /></a>
-
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arvincatalbas&show_icons=true&locale=en&layout=compact" alt="arvincatalbas" height="180" />
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=arvincatalbas&show_icons=true&locale=en" alt="arvincatalbas"  height="180" />
 </p>
+
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=arvincatalbas&theme=react&hide_border=true" alt="GitHub Streak" /></a>
