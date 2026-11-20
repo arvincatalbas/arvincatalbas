@@ -69,6 +69,9 @@
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=arvincatalbas&theme=react&hide_border=true" alt="GitHub Streak" /></a>
 
 <p>
-  <img src="https://profilyze.vercel.app/api/github/stats?user=arvincatalbas&theme=github-dark" alt="GitHub stats" height="180" />
   <img src="https://profilyze.vercel.app/api/github/languages?user=arvincatalbas&theme=github-dark" alt="Top languages" height="180" />
+</p>
+
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arvincatalbas&show_icons=true&locale=en&layout=compact" alt="arvincatalbas" />
 </p>
