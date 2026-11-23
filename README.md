@@ -10,9 +10,7 @@
 
 
 <h3 align="center">
-  ```html
   Aspiring Full Stack Developer
-  ```
 </h3>
 
 ***
