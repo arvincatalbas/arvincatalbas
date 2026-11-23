@@ -14,7 +14,7 @@
 </h3>
 
 ***
-- 🎓 <code>Student</code> **<code>Bachelor of Science in Information Technology</code>** <code>at</code> <code>[Sorsogon State University - Bulan Campus](https://bulan.sorsu.edu.ph/)</code>
+- 🎓 <code>Student</code> **<b>Bachelor of Science in Information Technology</b>** at</code> <code>[Sorsogon State University - Bulan Campus](https://bulan.sorsu.edu.ph/)</code>
 
 - 👀 I’m interested in **Programming**, **Web Development**, and **Networking**
 
