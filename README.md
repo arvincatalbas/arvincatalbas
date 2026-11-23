@@ -14,14 +14,14 @@
 </h3>
 
 ***
-- 🎓 <code>Student **<b>Bachelor of Science in Information Technology</b>** at</code> <code>[Sorsogon State University - Bulan Campus](https://bulan.sorsu.edu.ph/)</code>
+- 🎓 Student **Bachelor of Science in Information Technology** at [Sorsogon State University - Bulan Campus](https://bulan.sorsu.edu.ph/)
 
 - 👀 I’m interested in **Programming**, **Web Development**, and **Networking**
 
 - 🆎 Understand **English** and **Filipino**
 
 ***
-<h3>🧰 Tools </h3>
+<h3><code>🧰 Tools</code> </h3>
 
 -  **Frontend**
   <p align="left">
