@@ -8,7 +8,9 @@
   />
 </p>
 
-<h3 align="center">`Aspiring Full Stack Developer`</h3>
+```html
+<h3 align="center">Aspiring Full Stack Developer</h3>
+```
 
 ***
 - 🎓 Student **Bachelor of Science in Information Technology** at [Sorsogon State University - Bulan Campus](https://bulan.sorsu.edu.ph/)
