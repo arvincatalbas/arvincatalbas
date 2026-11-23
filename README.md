@@ -13,9 +13,10 @@
   <code>Aspiring Full Stack Developer</code>
 </h3>
 
-<div style="font-family: 'Courier New', Courier, monospace;">
-
 ***
+
+<div style="font-family: 'Courier New', Courier, monospace;">
+  
 - 🎓 Student **Bachelor of Science in Information Technology** at [Sorsogon State University - Bulan Campus](https://bulan.sorsu.edu.ph/)
 
 - 👀 I’m interested in **Programming**, **Web Development**, and **Networking**
