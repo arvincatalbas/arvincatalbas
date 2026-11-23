@@ -14,10 +14,7 @@
 </h3>
 
 ***
-
-<div style="font-family: 'Courier New', Courier, monospace;">
-  
-- 🎓 Student **Bachelor of Science in Information Technology** at [Sorsogon State University - Bulan Campus](https://bulan.sorsu.edu.ph/)
+- 🎓 <code>Student</code> **<code>Bachelor of Science in Information Technology</code>** <code>at</code> <code>[Sorsogon State University - Bulan Campus](https://bulan.sorsu.edu.ph/)</code>
 
 - 👀 I’m interested in **Programming**, **Web Development**, and **Networking**
 
@@ -78,5 +75,3 @@
 </p>
 
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=arvincatalbas&theme=react&hide_border=true" alt="GitHub Streak" /></a>
-
-</div>
