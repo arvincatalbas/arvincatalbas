@@ -21,7 +21,7 @@
 - 🆎 Understand **English** and **Filipino**
 
 ***
-<h3><code>🧰 Tools</code> </h3>
+<h3>🧰 Tools </h3>
 
 -  **Frontend**
   <p align="left">
