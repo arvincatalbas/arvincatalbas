@@ -1,17 +1,6 @@
 <img alt="Static Badge" src="https://img.shields.io/badge/404-Orangemask-skyblue?labelColor=darkblue&style=for-the-badge">
 
-<p align="center">
-  <img
-    src="./your_cool_intro (2).gif"
-    alt="Arvin's Animated Introduction"
-    width="800"
-  />
-</p>
-
-
-<h3 align="center">
-  <code>Aspiring Full Stack Developer</code>
-</h3>
+<a href="https://profilyze.vercel.app/?u=arvincatalbas&c=nZIxb9swFIT_inFZ2YCyZMd5W5A4Sw2kaNouQQZKpmzGNKWQtBLB8H8vSMmyO7RIo-URwh3v0z3t0YAShp2TFgRhG2UK4YXOhQNDvgLtsVFmCUJtpZMeDEZsJQjKi2KtEhwY1qDxhDMs1RbEGSwoGTNI7UBPe6hgjy6Gd1Ay5QwtaDZjcKBpxuDbOlzp5XsIiINwE2hGtyecsjLh_Yv0uRXKuC_bylRgeANdcc5QVLoKn3FRxgcH1mfbSg_ZWcxOpl34-G_h9z8Xi8cfN7dfR3fzX_PFw7f59_8hmKUyLxMwhAr4ZTKguI3S2nUwk4z3MDzCpCcYVVQmqLpJT6jXdbhNWNFIDQZBVorCv7h4bnYynrate9V4ZliJGpTwU6y3Umz-7CDtUsd8SHVehAriOPMEiPB3UKmsjBS51CAsRTsaRH01ynhp_7ETBlEUMkovyvJ6mvHTmhol3_pq0uxjjEfLgOjWwiqzEuaM8yj6BGK_xwGxqIy3Ku8ps6vkQ5RnriNo4VWjfHtG2Yt2XnWr_wRter1MJykOz4ff"><img src="https://profilyze.vercel.app/api/banner?u=arvincatalbas&c=nZIxb9swFIT_inFZ2YCyZMd5W5A4Sw2kaNouQQZKpmzGNKWQtBLB8H8vSMmyO7RIo-URwh3v0z3t0YAShp2TFgRhG2UK4YXOhQNDvgLtsVFmCUJtpZMeDEZsJQjKi2KtEhwY1qDxhDMs1RbEGSwoGTNI7UBPe6hgjy6Gd1Ay5QwtaDZjcKBpxuDbOlzp5XsIiINwE2hGtyecsjLh_Yv0uRXKuC_bylRgeANdcc5QVLoKn3FRxgcH1mfbSg_ZWcxOpl34-G_h9z8Xi8cfN7dfR3fzX_PFw7f59_8hmKUyLxMwhAr4ZTKguI3S2nUwk4z3MDzCpCcYVVQmqLpJT6jXdbhNWNFIDQZBVorCv7h4bnYynrate9V4ZliJGpTwU6y3Umz-7CDtUsd8SHVehAriOPMEiPB3UKmsjBS51CAsRTsaRH01ynhp_7ETBlEUMkovyvJ6mvHTmhol3_pq0uxjjEfLgOjWwiqzEuaM8yj6BGK_xwGxqIy3Ku8ps6vkQ5RnriNo4VWjfHtG2Yt2XnWr_wRter1MJykOz4ff" alt="Arvin Catalbas banner" width="100%" /></a>
 
 ***
 - 🎓 Student **Bachelor of Science in Information Technology** at [Sorsogon State University - Bulan Campus](https://bulan.sorsu.edu.ph/)
